@@ -7,6 +7,7 @@ What is Burn The Subs: https://www.youtube.com/watch?v=e5zEBPPmbTo
 Oh_bother's Burn The Subs repo: https://github.com/WorkVerbDesign/Burn-the-Subs  
 Oh_bother's Twitch (go subscribe): https://www.twitch.tv/oh_bother  
 
+![](./bts.png)
 
 ## Run the program
 
