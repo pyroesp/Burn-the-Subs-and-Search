@@ -27,6 +27,8 @@ Use the scroll wheel or +/- to zoom in and out.
 
 Press CTRL+F to enable search mode. Write a name between the []. Press enter to finish the entry.  
 The searched name changes to red.
+![](./bts_search1.png)  
+![](./bts_search2.png)
 
 Press CTRL+S to save BTS to an uncompressed BMP. The uncompressed BMP is around 250MB big.  
 
