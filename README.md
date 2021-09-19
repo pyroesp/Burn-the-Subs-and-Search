@@ -17,7 +17,7 @@ You can get the latest DB here: https://github.com/WorkVerbDesign/Burn-the-Subs/
 Keep everything as is and use make to compile.
 Run the exe without arguments.
 
-Note*: The program was made on win10 and so the makefile uses mingw.  
+**Note:** The program was made on win10 and so the makefile uses mingw.  
 I don't think I've used anything windows specific so you should be able to compile for other OS.
 
 ## Features
